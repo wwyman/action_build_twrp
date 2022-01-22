@@ -1,6 +1,6 @@
 {
   "twrp_url": "git://github.com/minimal-manifest-twrp/platform_manifest_twrp_omni.git",
-  "twrp_branch": "twrp-9.0",
+  "twrp_branch": "twrp-8.1",
   "git_username": "wwyman",
   "git_email": "52705757+wwyman@users.noreply.github.com",
   "use_own_dt": true,
@@ -14,5 +14,5 @@
   "fix_product": true,
   "fix_misscom": true,
   "fix_busybox": true,
-  "fix_branch": "android-9.0"
+  "fix_branch": "android-8.1"
 }
