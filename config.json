@@ -14,5 +14,5 @@
   "fix_product": true,
   "fix_misscom": true,
   "fix_busybox": true,
-  "fix_branch": "android-9.0"
+  "fix_branch": "android-10.0"
 }
