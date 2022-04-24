@@ -10,8 +10,8 @@
   "dt_path": "device/xiaomi/lotus",
   "device_code": "lotus",
   "use_omin_head": true,
-  "use_repair_manifest": false,
-  "fix_product": false,
+  "use_repair_manifest": true,
+  "fix_product": true,
   "fix_misscom": false,
   "fix_busybox": false,
   "fix_branch": "android-8.1"
